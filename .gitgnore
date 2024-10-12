@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# SQLite database
+biblioteca.db
+
+# Environment files
+.env
+
+# Backup files
+*.bak
+*.swp
+
+# IDE Configurations
+.vscode/
+.idea/
